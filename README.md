@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dennis-Dube
+-  Hi, 👋 I’m <b>Dennis-Dube</b>
 - 👀 I am a motivated scientist with an interest in data and earth processes.
 - 🌱 I’m currently learning data science and how to use Github
 - 💞️ I’m looking to collaborate on data wrangling and machine learning projects.
